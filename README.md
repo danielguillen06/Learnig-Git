@@ -1,2 +1,2 @@
 # Learnig-Git
-Hello world !!, How you doing ? My name is sebastiann 
+Hello world !!, How you doing ? My name is sebastian
